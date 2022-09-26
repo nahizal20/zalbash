@@ -1,0 +1,2 @@
+# zalbash
+bash zal
